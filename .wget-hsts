@@ -1,0 +1,6 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+bin.equinox.io	0	1	1675491151	31536000
+www.facebook.com	0	0	0	15552000
+chat.whatsapp.com	0	1	0	31536000
